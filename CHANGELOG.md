@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/nuxt-community/svg-sprite-module/compare/v1.0.0-beta.2...v0.0.4) (2022-06-11)
+
+
+### Features
+
+* add support for nuxt3/bridge ([94c08aa](https://github.com/nuxt-community/svg-sprite-module/commit/94c08aae68030b3c50472cfea4ef8d08b94c66ac))
+* allow configure file-loader options ([4b79492](https://github.com/nuxt-community/svg-sprite-module/commit/4b79492bb2cb0105483f3ac57e4a6846eee8f53e)), closes [#249](https://github.com/nuxt-community/svg-sprite-module/issues/249)
+* Support outputPath for file-loader ([#240](https://github.com/nuxt-community/svg-sprite-module/issues/240)) ([9153b9c](https://github.com/nuxt-community/svg-sprite-module/commit/9153b9cf940dd75dbc2940df04ea22f8259201e1))
+
+
+### Bug Fixes
+
+* allow symlinks inside sprite input ([#253](https://github.com/nuxt-community/svg-sprite-module/issues/253)) ([b508829](https://github.com/nuxt-community/svg-sprite-module/commit/b508829ef3f006da65ea1a4708b6f3a5c7929522))
+* testing defs in generated svg ([687ed81](https://github.com/nuxt-community/svg-sprite-module/commit/687ed81fc2080b17af0b9dabc404d4655cf7d4ed))
+* tests ([ee63554](https://github.com/nuxt-community/svg-sprite-module/commit/ee6355463982b26706c84da3e6c9e9a51b6a3434))
+
 ## [1.0.0-beta.2](https://github.com/nuxt-community/svg-sprite-module/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2021-03-16)
 
 
