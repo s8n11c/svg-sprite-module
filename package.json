@@ -1,6 +1,6 @@
 {
   "name": "robusta-svg-sprite",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "description": "Optimized and Easy way to use svg files in Nuxt.js",
   "repository": "nuxt-community/svg-sprite-module",
   "type": "module",
@@ -22,7 +22,7 @@
     "dev:build": "nuxi build playground",
     "lint": "eslint --ext .ts --ext .vue .",
     "prepublishOnly": "yarn build",
-    "release": "yarn test && standard-version && git push --follow-tags && npm publish",
+    "release": "yarn test && standard-version && git push --follow-tags && npm publish --access=public",
     "prepack": "nuxt-module-build",
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground",
     "test": "vitest"

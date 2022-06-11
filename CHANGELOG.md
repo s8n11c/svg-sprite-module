@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/nuxt-community/svg-sprite-module/compare/v0.0.6...v0.0.5) (2022-06-11)
+
 ### [0.0.6](https://github.com/nuxt-community/svg-sprite-module/compare/v0.0.4...v0.0.6) (2022-06-11)
 
 ### [0.0.4](https://github.com/nuxt-community/svg-sprite-module/compare/v1.0.0-beta.2...v0.0.4) (2022-06-11)
