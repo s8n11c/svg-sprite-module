@@ -1,5 +1,5 @@
 {
-  "name": "@nuxt3/robusta-svg-sprite",
+  "name": "robusta-svg-sprite",
   "version": "0.0.1",
   "description": "Optimized and Easy way to use svg files in Nuxt.js",
   "repository": "nuxt-community/svg-sprite-module",
