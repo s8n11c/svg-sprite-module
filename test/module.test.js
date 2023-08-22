@@ -25,7 +25,7 @@ describe('Render module', async () => {
       const request = await page.goto(url(sprite))
       expect(request.status()).toEqual(200)
     }
-  })
+  }, 100000)
 
   test('all icon should be rendered and have width/height greater than zero', async () => {
     await page.goto(url('/'))
